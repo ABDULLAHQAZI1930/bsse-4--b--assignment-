@@ -63,11 +63,6 @@ Add sorting options (by due date, name)
 
 
 
-yaml
-Copy
-Edit
-
----
 
 
 
