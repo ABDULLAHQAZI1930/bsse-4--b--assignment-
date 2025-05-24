@@ -59,16 +59,9 @@ Improve error handling
 
 Add sorting options (by due date, name)
 
-👨‍💻 Contributing (For Group Work)
-Follow file naming conventions (*.hpp, *.cpp)
 
-Comment your code properly
 
-Use Git or ZIPs to share updates
 
-🙋 Need Help?
-Contact the developer at: your.email@example.com
-Or check each module's header file for documentation and function descriptions.
 
 yaml
 Copy
